@@ -1,6 +1,6 @@
 # AutoHotKey
 
-这是我个人的提升生产力的Autohotkey套件。
+这是我个人提升生产力的Autohotkey套件。
 
 ## 快捷键绑定
 
@@ -11,7 +11,7 @@
 
 ## 使用
 
-* 下载安装Authotkey
+* 下载安装[Authotkey](https://autohotkey.com/)
 * `git clone https://github.com/xiashuangxi/AutoHotkey.git`
 * 运行`Main.ahk`
 
