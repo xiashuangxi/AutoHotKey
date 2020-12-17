@@ -8,10 +8,18 @@
 
 <img src="autohotkey.svg" alt="快捷键绑定" />
 
+### 全局
+
+* <kbd>Caps lock</kbd>+<kbd>h</kbd>：左。
+* <kbd>Caps lock</kbd>+<kbd>j</kbd>：下。
+* <kbd>Caps lock</kbd>+<kbd>k</kbd>：上。
+* <kbd>Caps lock</kbd>+<kbd>l</kbd>：右。
+* <kbd>Caps lock</kbd>+<kbd>Shift</kbd>：配合<kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd>可进行移动选择。
+
 ### Cmd
 
-* <kbd>Ctrl</kbd>+<kbd>v</kbd>：粘贴
-* <kbd>Ctrl</kbd>+<kbd>v</kbd>：清除屏幕
+* <kbd>Ctrl</kbd>+<kbd>v</kbd>：粘贴。
+* <kbd>Ctrl</kbd>+<kbd>v</kbd>：清除屏幕。
 
 ## 使用
 

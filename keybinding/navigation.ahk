@@ -3,10 +3,10 @@
 ;; =============================================================================
 
 ;; 上
-CapsLock & j:: CapsLockNav("Up")
+CapsLock & j:: CapsLockNav("Down")
 
 ;; 下
-CapsLock & k:: CapsLockNav("Down")
+CapsLock & k:: CapsLockNav("Up")
 
 ;; 左
 CapsLock & h:: CapsLockNav("Left")
