@@ -4,6 +4,10 @@
 
 ## 快捷键绑定
 
+*这是笔记本键盘布局*
+
+<img src="autohotkey.svg" alt="快捷键绑定" />
+
 ### Cmd
 
 * <kbd>Ctrl</kbd>+<kbd>v</kbd>：粘贴
