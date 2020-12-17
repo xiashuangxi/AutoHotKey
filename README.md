@@ -1,4 +1,6 @@
 # AutoHotKey
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxiashuangxi%2FAutoHotKey.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxiashuangxi%2FAutoHotKey?ref=badge_shield)
+
 
 这是我个人提升生产力的Autohotkey套件。
 
@@ -18,3 +20,6 @@
 ## 开源协议
 
 MIT
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxiashuangxi%2FAutoHotKey.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxiashuangxi%2FAutoHotKey?ref=badge_large)
