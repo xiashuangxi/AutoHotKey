@@ -4,6 +4,8 @@
 #InstallKeybdHook
 #UseHook, On
 
+SetCapsLockState, AlwaysOff
+
 SendMode Input
 SetWorkingDir %A_ScriptDir% ;; 改变脚本的工作路径为当前路径
 

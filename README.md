@@ -15,9 +15,16 @@
 * <kbd>Caps lock</kbd>+<kbd>k</kbd>：上。
 * <kbd>Caps lock</kbd>+<kbd>l</kbd>：右。
 * <kbd>Caps lock</kbd>+<kbd>Shift</kbd>：配合<kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd>可进行移动选择。
+* <kbd>Caps lock</kbd>+<kbd>u</kbd>：PgDn。
+* <kbd>Caps lock</kbd>+<kbd>i</kbd>：PgUp。
+* <kbd>Caps lock</kbd>+<kbd>o</kbd>：行头。
+* <kbd>Caps lock</kbd>+<kbd>m</kbd>：行尾。
+* <kbd>Caps lock</kbd>+<kbd>p</kbd>：End。
+* <kbd>Caps lock</kbd>+<kbd>n</kbd>：Home。
 * <kbd>RCtrl</kbd>+<kbd>Delete</kbd>：打开 Chrome 浏览器。
 * <kbd>RCtrl</kbd>+<kbd>Home</kbd>：打开 Hotmail 的网页版。
 * <kbd>RCtrl</kbd>+<kbd>End</kbd>：打开 Visual Studio Code 应用。
+
 
 ### Cmd
 
