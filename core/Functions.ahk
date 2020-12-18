@@ -2,8 +2,6 @@ Show_Or_Run_Application(title, exe, params = "")
 {
     SetTitleMatchMode, 2
     SplitPath, exe, exeName, , , name_no_ext
-
-        Notify("EEE:",title, -3,"Style=Win10")
     IfWinExist, %title%
     {
         IfWinActive 
