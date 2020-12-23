@@ -42,4 +42,5 @@ CapsLock & Tab::
     Return
 
 CapsLock & c::Send, ^c
-CapsLock & v:: Send, %Clipboard%
+CapsLock & v:: Send, ^v
+CapsLock & z::Send, ^z
